@@ -23,6 +23,9 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button {
+  color:#169BD5;
+}
 .heading_1 {
   font-family:'Arial Обычный', 'Arial', sans-serif;
   font-weight:bold;
@@ -90,6 +93,9 @@
 }
 .list_box {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 .radio_button {
